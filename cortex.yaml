@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: From Cortex Lambda With Secrets
+  description: ""
+  x-cortex-tag: from-cortex-lambda-with-secrets
+  x-cortex-git:
+    github:
+      repository: coachingup/from-cortex-lambda-with-secrets
+  x-cortex-owners:
+  - name: coachingup/everyone
+    type: GROUP
+  x-cortex-custom-metadata:
+    cortex-template-version: 0.0.1
+    cortex-generated-timestamp: 2022-08-10T23:53:57.550038
